@@ -43,6 +43,14 @@ address = {Anchorage, AK},
 pages = {74--82},
 year = {2019}
 }
+
+@article{yang2021cost,
+  title={Cost-Effective Incremental Deep Model: Matching Model Capacity with the Least Sampling},
+  author={Yang, Yang and Zhou, Da-Wei and Zhan, De-Chuan and Xiong, Hui and Jiang, Yuan and Yang, Jian},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}
 ```
 
 ## Contact 
